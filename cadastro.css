@@ -1,7 +1,7 @@
  * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
  }
 
  body {
@@ -102,28 +102,8 @@ button {
 
 }
 
-header {
-  display: flex;
-  justify-content: center;
-  box-shadow: 5px 2px 5px 1px ;
-  margin-left: 40px;
-  margin-right: 40px;
-  margin-top: 60px;
-  padding: 20px;
-  border-radius: 6px;
-  background-color: rgb(244, 241, 241);
-  
-  
-}
 
-h1 {
-  width: 90%;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  font-size: 20px;
-  box-shadow: 5px 5px 5px 2px ;
-  
-} 
+
 
 h2 {
   opacity: 80%;
@@ -135,4 +115,15 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  height: 300px;
+  border-radius: 180px;
+  padding-top: 20px;
 }
