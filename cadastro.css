@@ -1,6 +1,6 @@
  * {
   padding: 0;
-  margin: 10px 10px 10px 10px;
+  margin: 0;
   
   box-sizing: border-box;
  }
@@ -58,7 +58,7 @@ form {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 15px;
+  gap: 10px;
   width: 100%;
   min-height: 100%;
 
