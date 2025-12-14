@@ -5,10 +5,12 @@ window.onload = function() {
   if (senhaDigitada === senhaCorreta) {
     alert("Acesso permitido");
     document.getElementById("Conteudo").style.display = "block";
+
   } else {
     alert("Acesso negado!");
     document.body.innerHTML = "<h2>Acesso bloqueado</h2>";
   }
+
 }
 
 
