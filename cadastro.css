@@ -1,11 +1,11 @@
  * {
   padding: 0;
-  margin: 0;
+  margin: 10px 10px 10px 10px;
+  
   box-sizing: border-box;
  }
 
  body {
-  margin-bottom: 40px;
   font-family: 'Poppins', sans-serif;
   padding: 5px;
   box-sizing: border-box;
