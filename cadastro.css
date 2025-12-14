@@ -125,5 +125,6 @@ header {
 .img {
   height: 300px;
   border-radius: 180px;
+  margin-top: 20px;
   
 }
