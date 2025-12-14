@@ -15,7 +15,7 @@
   border: 5px solid rgb(239, 201, 151);
   display: flex;
   flex-direction: column;
-  min-height: 60vh;
+  min-height: 100vh;
   width: 100%;
   background-color: rgb(243, 225, 202);
 }
@@ -86,7 +86,7 @@ button {
   border: none;
   border-radius: 6px;
   cursor: pointer;
-  margin-top: 10px;
+  
 }
 
 .footer {
