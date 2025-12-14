@@ -61,7 +61,7 @@ form {
   justify-content: center;
   gap: 10px;
   width: 100%;
-  
+  min-height: 100%;
 
 }
 
@@ -120,6 +120,7 @@ h2 {
 header {
   display: flex;
   justify-content: center;
+  margin-bottom: 20px;
 }
 
 .img {
