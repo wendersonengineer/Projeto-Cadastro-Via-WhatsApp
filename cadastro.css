@@ -5,11 +5,8 @@
  }
 
  body {
-
-
+  margin-bottom: 40px;
   font-family: 'Poppins', sans-serif;
-  margin-bottom: 120px;
-
   padding: 5px;
   box-sizing: border-box;
   border-radius: 8px;
@@ -100,6 +97,7 @@ button {
   padding: 5px;
   gap: 10px;
   border-radius: 4px;
+  margin-bottom: 20px;
   
 }
 
