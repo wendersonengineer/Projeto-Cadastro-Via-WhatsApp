@@ -13,7 +13,7 @@
   border: 5px solid rgb(239, 201, 151);
   display: flex;
   flex-direction: column;
-  
+  height: 100vh;
   width: 100%;
   background-color: rgb(243, 225, 202);
   
